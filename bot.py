@@ -1,6 +1,5 @@
 import discord
 from discord.ext import commands
-import discord.ext.commands.errors as errors
 from utils import *
 from veriler import getInfo
 import random
